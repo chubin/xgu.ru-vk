@@ -19,7 +19,8 @@ Posts for vk.com/xgu_ru/ (in Russian)
 13. 
 14. 
 15. 
-16. 
+16. Firewall piercing [95943583_260]
 17. Шелл-трюки, выпуск 3: curl, ifcfg.me и wttr.in [95943583_263]
+18. Анонс ccie.linkmeup.ru [95943583_270]
 
 
