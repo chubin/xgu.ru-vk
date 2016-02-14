@@ -321,6 +321,8 @@ int main()
 }
 ```
 
+Компилируем и исполняем:
+
 ```bash
 $ gcc -o cpfile -lbusybox -L. cpfile.c
 $ rm d/1
